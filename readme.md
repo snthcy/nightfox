@@ -23,6 +23,12 @@ For the blur style to work enable `layout.css.backdrop-filter.enabled` in `about
 
 ![spacings](./spacings.png)
 
+## DuckDuckGo
+
+Want to get this DuckDuckGo theme? Go to [`https://duckduckgo.com/settings#theme`](`https://duckduckgo.com/settings#theme`) and enter the password **`nightfall`**.
+
+![ddg](https://cdn.discordapp.com/attachments/816815013913296896/859063569337024544/unknown.png)
+
 ## Credits
 
 **`Nightfox is based off of:`** [`https://github.com/datguypiko/Firefox-Mod-Blur`](https://github.com/datguypiko/Firefox-Mod-Blur)
